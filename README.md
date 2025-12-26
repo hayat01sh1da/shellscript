@@ -1,6 +1,6 @@
 ## 1. Environment
 
-- WSL(Ubuntu 24.04.1 LTS)
+- WSL(Ubuntu 24.04.3 LTS)
 - GNU bash, version 5.0.17(1)-release (x86_64-pc-linux-gnu)
 
 ## 2. How to Use
