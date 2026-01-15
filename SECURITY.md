@@ -3,7 +3,7 @@
 ## Supported Versions
 
 - Only the `master` branch shell scripts are supported. Re-run scripts from the latest commit before reporting issues.
-- Scripts executed with shells other than GNU Bash 5.x are out of scope unless the issue reproduces with the documented environment.
+- Scripts executed with shells other than GNU Bash 5.0.x are out of scope unless the issue reproduces with the documented environment.
 
 ## Ecosystem & Compatibility
 
