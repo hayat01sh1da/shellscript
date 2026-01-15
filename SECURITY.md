@@ -20,9 +20,5 @@
 
 ## Reporting a Vulnerability
 
-Please disclose vulnerabilities privately:
-
-1. Use GitHub’s **Security → Report a vulnerability** workflow (preferred).
-2. Or email `security@project.org` with the script path, inputs, expected vs. actual behavior, and any system modifications.
-
+Please disclose vulnerabilities privately using GitHub’s **Security → Report a vulnerability** workflow.
 We acknowledge within **3 business days** and update at least every **7 business days** while investigating.
